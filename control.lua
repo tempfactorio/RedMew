@@ -13,6 +13,7 @@ require "train_station_names"
 require "score"
 require "custom_commands"
 require "showhealth"
+require "nuke_control"
 
 
 
