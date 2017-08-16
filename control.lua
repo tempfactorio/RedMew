@@ -2,6 +2,7 @@ require "util"
 require "locale/utils/event"
 require "config"
 require "locale/utils/utils"
+require "locale/utils/list_utils"
 require "base_data"
 require "user_groups"
 require "chatlog"
@@ -18,6 +19,7 @@ require "nuke_control"
 require "walk_distance"
 require "on_tick"
 require "follow"
+require "forests"
 
 
 
